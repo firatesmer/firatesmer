@@ -4,4 +4,4 @@ I have over 10 years of experience in software design and development mostly wit
 
 I'm currently working on Salesforce platform as a Salesforce Developer focused on Salesforce OMS.
 
-Check out my [blog](https://firatesmer.com) or [LinkedIn](https://linkedin.com/in/firatesmer) profile.
+Check out my [blog (Turkish)](https://firatesmer.com) or [LinkedIn](https://linkedin.com/in/firatesmer) profile.
