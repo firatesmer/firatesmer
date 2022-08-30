@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have over 11 years of experience in software design and development mostly with .NET technology stack for back-end development, databases, integration and front-end frameworks.
+I have over 12+ years of experience in software design and development mostly with .NET technology stack for back-end development, databases, integration and front-end frameworks.
 
 I'm currently working on Salesforce platform as a Salesforce Developer focused on Salesforce OMS.
 
